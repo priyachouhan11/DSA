@@ -1,4 +1,4 @@
-package DSA;
+//package DSA;
 import java.util.Scanner;
 
 public class patternQuestion {

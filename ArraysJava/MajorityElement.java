@@ -1,4 +1,4 @@
-package DSA.ArraysJava;
+//package DSA.ArraysJava;
 public class MajorityElement {
   public static void main(String[] args) {
     int [] arr = {1,1,2,2,7,7,7,7};

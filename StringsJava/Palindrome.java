@@ -1,4 +1,4 @@
-package DSA.StringsJava;
+//package DSA.StringsJava;
 
 public class Palindrome {
   public static int isPalindrome(String A) {

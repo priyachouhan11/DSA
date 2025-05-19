@@ -1,4 +1,4 @@
-package DSA.ArraysJava;
+// package DSA.ArraysJava;
 
 public class SpiralMatrix {
   public static void spiral_matrix(int n){

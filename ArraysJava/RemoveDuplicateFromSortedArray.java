@@ -1,4 +1,4 @@
-package DSA.ArraysJava;
+//package DSA.ArraysJava;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -11,8 +11,6 @@ public class RemoveDuplicateFromSortedArray {
     a.addAll(ans);
     return a.size();
 	}
-
- 
 
   public static void main(String[] args) {
     //int arr1[] = {1,1,1,1,1,1,1,5,7,5,25,4};
@@ -29,7 +27,6 @@ public class RemoveDuplicateFromSortedArray {
 
     System.out.println("Size of ArrayList: "+arr.size());
     System.out.println("After remove Duplicate element in array: "+removeDuplicates(arr));
-
     
   }
 }

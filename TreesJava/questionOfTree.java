@@ -25,7 +25,7 @@ public class questionOfTree {
         root.left = a;
         root.right = b;
         a.left = c;
-        //a.right = d;
+        a.right = d;
         b.right = e;
 
         pre_oder(root);

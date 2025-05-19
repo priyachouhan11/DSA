@@ -1,4 +1,4 @@
-package DSA.LinkedListJava;
+//package DSA.LinkedListJava;
 
 public class SwapTheListNode {
   /*

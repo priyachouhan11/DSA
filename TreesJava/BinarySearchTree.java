@@ -38,9 +38,6 @@ public class BinarySearchTree {
     // insertBST(root, 6);
     // System.out.println("after insertion");
     // inoder(root);
-
-    
-    
     
   }
 
